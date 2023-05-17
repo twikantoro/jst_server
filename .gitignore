@@ -1,0 +1,8 @@
+.git
+.vscode
+_pycache_
+dataset
+db
+env
+models
+venv
