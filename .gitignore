@@ -1,6 +1,6 @@
 .git
 .vscode
-_pycache_
+__pycache__
 dataset
 db
 env
